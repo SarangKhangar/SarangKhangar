@@ -8,9 +8,9 @@ public class Array {
         for(int i=0; i<n; i++){
             System.out.println("enter");
             array[i] = Myobj.nextInt();
-         }              System.out.println("your array is");
-
-         for(int i=0; i<n; i++){
-         System.out.println(array[i]);}
+         }             
+          System.out.println("your array is");
+          for(int i=0; i<n; i++){
+          System.out.println(array[i]);}
     }
 }
