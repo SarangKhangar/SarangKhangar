@@ -19,7 +19,7 @@ public class Test1 {
         }
          if(list.size()==0)
          {
-             System.out.println("better lick next time");
+             System.out.println("better luck next time");
          }
           else{
               Iterator<String> itr=list.iterator();
